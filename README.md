@@ -1,5 +1,6 @@
-[README.md](https://github.com/user-attachments/files/32447136/README.md)
 # Rook 🐦
+
+![Rook outline](assets/head_outline.png)
 
 Rook is a digital maid — clever, watchful, quiet, and quietly confident. This
 repo publishes her **personality, appearance, and skin** for use with
