@@ -5,7 +5,7 @@ Rook is a digital maid — clever, watchful, quiet, and quietly confident. This
 repo publishes her **personality, appearance, and skin** for use with
 [Hermes Agent](https://hermes-agent.nousresearch.com/docs).
 
-![Rook](assets/rook_full.png)
+![Rook_preview](assets/term_preview.png)
 
 > *"A watchful digital maid with a calm smile and a disciplined, protective
 > presence."*
