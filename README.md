@@ -30,9 +30,9 @@ straps and ankle boots. Purple hair, violet eyes, black-and-white maid uniform,
 and a serving tray with a laptop. The design blends hospitality with a
 disciplined, tech-service edge.
 
-| Full body | Variant | Head portrait | Head outline | Torso detail |
-|-----------|---------|---------------|--------------|--------------|
-| ![Rook full](assets/rook_full.png) | ![Rook variant](assets/rook_full_variant.png) | ![Rook head](assets/head_color.png) | ![Rook outline](assets/head_outline.png) | ![Rook torso](assets/nous_torso.png) |
+| Full body | Variant | Head portrait | Head outline | Torso detail | Chibi |
+|-----------|---------|---------------|--------------|--------------|-------|
+| ![Rook full](assets/rook_full.png) | ![Rook variant](assets/rook_full_variant.png) | ![Rook head](assets/head_color.png) | ![Rook outline](assets/head_outline.png) | ![Rook torso](assets/nous_torso.png) | ![Rook_chibi](assets/chibi.png) |
 
 ---
 
